@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mypackage.financeiro.login;
+package com.mycompany.login;
 
 import com.mycompany.financeiro.Menu.*;
 import javax.swing.JOptionPane;

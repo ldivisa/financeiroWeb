@@ -9,7 +9,7 @@ package com.mycompany.financeiro;
 import com.mycompany.financeiro.Menu.frmMenu;
 import com.mycompany.financeiro.dao.utilidades.*;
 import com.mycompany.financeiro.frmsaldo.frmSaldo;
-import com.mypackage.financeiro.login.frmLogin;
+import com.mycompany.login.frmLogin;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
